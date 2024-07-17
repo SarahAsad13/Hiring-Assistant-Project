@@ -22,7 +22,7 @@ The Hiring Assistant project is designed to streamline the process of handling r
 1. **Clone the Repository**
 
   ```sh
-      git clone [repository-url](http://your-repository-url)
+      git clone [Link Text](URL)
       #git clone [repository-url](https://github.com/SarahAsad13/Hiring-Assistant-Project)
       cd <repository-directory>
    
