@@ -11,3 +11,8 @@ The Hiring Assistant project is designed to streamline the process of handling r
 2. Backend: A FastAPI-based backend that handles file uploads, processes resumes to extract entities, and interacts with the Neo4j database.
 
 3. Database: A Neo4j graph database to store and manage extracted entities and their relationships.
+
+*Technologies Used:* Python, FastAPI for backend development, React for frontend development,Named Entity Recognition (NER) - Natural Language Processing (NLP) Library for Entity Recognition and Docker for deployment.
+
+
+## Project Structure
