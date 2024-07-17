@@ -17,6 +17,13 @@ The Hiring Assistant project is designed to streamline the process of handling r
 
 ## Project Structure
 
+### Backend (/server)
+
+
+
+### Frontend (/src)
+
+
 ## Steps to run the application
 
 1. **Clone the Repository**
@@ -36,3 +43,20 @@ The Hiring Assistant project is designed to streamline the process of handling r
    Frontend: `http://localhost:13002`
    Backend: `http://localhost:13001/docs` (Swagger UI for API documentation)
 
+
+## Project Components Explained
+
+1. **PDF Parser**
+
+2. **NER**
+
+3. **Neo4j**
+
+4. **FastAPI**
+   #Include the info about endpoints
+
+5. **React**
+
+
+
+## Future Improvements
