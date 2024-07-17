@@ -35,9 +35,9 @@ The Hiring Assistant project is designed to streamline the process of handling r
    
 2. **Build and Run with Docker Compose**
 
-```bash 
-   docker-compose up --build
-```
+   ```bash 
+      docker-compose up --build
+   ```
 
 
 4. **Access the Application**
