@@ -6,11 +6,11 @@ The Hiring Assistant project is designed to streamline the process of handling r
 
 ### This project involves building a full-stack application with the following key components:
 
-1. Frontend: A user-friendly interface built with React to upload resumes and download processed results.
+1. **Frontend:** A user-friendly interface built with React to upload resumes and download processed results.
 
-2. Backend: A FastAPI-based backend that handles file uploads, processes resumes to extract entities, and interacts with the Neo4j database.
+2. **Backend:** A FastAPI-based backend that handles file uploads, processes resumes to extract entities, and interacts with the Neo4j database.
 
-3. Database: A Neo4j graph database to store and manage extracted entities and their relationships.
+3. **Database:** A Neo4j graph database to store and manage extracted entities and their relationships.
 
 **Technologies Used:** Python, FastAPI for backend development, React for frontend development, Named Entity Recognition (NER) - Natural Language Processing (NLP) Library for Entity Recognition and Docker for deployment.
 
@@ -19,9 +19,10 @@ The Hiring Assistant project is designed to streamline the process of handling r
 
 ## Steps to run the application
 
-1. Clone the Repository
+1. **Clone the Repository**
 
-  git clone <repository-url>```
+  ```sh
+      git clone <repository-url>
       cd <repository-directory>```
    
 
