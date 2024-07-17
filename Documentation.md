@@ -23,6 +23,6 @@ The Hiring Assistant project is designed to streamline the process of handling r
 
   ```sh
       git clone <repository-url>
-      cd <repository-directory>```
+      cd <repository-directory>
    
 
