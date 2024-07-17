@@ -17,11 +17,11 @@ The Hiring Assistant project is designed to streamline the process of handling r
 
 ## Project Structure
 
-### Backend (server/)
+### Backend (server/ )
 
 
 
-### Frontend (src/)
+### Frontend (src/ )
 
 
 ## Steps to run the application
