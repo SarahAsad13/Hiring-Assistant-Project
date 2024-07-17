@@ -2,4 +2,12 @@
 
 ## Overview
 
-The Hiring Assistant project is designed to streamline the process of handling resumes, extracting relevant information using Named Entity Recognition (NER), storing the data in a Neo4j graph database, and providing an interface for searching and matching candidates to job requirements. This project comprises both a frontend and a backend application.
+The Hiring Assistant project is designed to streamline the process of handling resumes, extracting relevant information using Named Entity Recognition (NER) and storing the data in a Neo4j graph database for efficient querying and analysis. This project comprises of both a frontend and a backend application.
+
+This project involves building a full-stack application with the following key components:
+
+Frontend: A user-friendly interface built with React to upload resumes and download processed results.
+
+Backend: A FastAPI-based backend that handles file uploads, processes resumes to extract entities, and interacts with the Neo4j database.
+
+Database: A Neo4j graph database to store and manage extracted entities and their relationships.
