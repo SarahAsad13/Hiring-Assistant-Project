@@ -27,17 +27,16 @@ The Hiring Assistant project is designed to streamline the process of handling r
 ## Steps to run the application
 
 1. **Clone the Repository**
-
-  ```sh
+   
       git clone https://github.com/SarahAsad13/Hiring-Assistant-Project
       cd <repository-directory>```
 
-2. **Build and Run with Docker Compose**
+3. **Build and Run with Docker Compose**
 
      `docker-compose up --build`
 
 
-3. **Access the Application**
+4. **Access the Application**
 
    Frontend: `http://localhost:13002`
    Backend: `http://localhost:13001/docs` (Swagger UI for API documentation)
