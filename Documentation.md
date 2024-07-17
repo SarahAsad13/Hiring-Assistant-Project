@@ -21,7 +21,7 @@ The Hiring Assistant project is designed to streamline the process of handling r
 
 1. Clone the Repository
 
-   ```git clone <repository-url>
+  git clone <repository-url>```
       cd <repository-directory>```
    
 
