@@ -22,7 +22,7 @@ The Hiring Assistant project is designed to streamline the process of handling r
 1. **Clone the Repository**
 
   ```sh
-      git clone [repository-url](https://github.com/SarahAsad13/Hiring-Assistant-Project)
+      git clone [repository-url](https://github.com/SarahAsad13/Hiring-Assistant-Project.git)
       cd <repository-directory>
    
 2. **Build and Run with Docker Compose**
