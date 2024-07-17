@@ -26,13 +26,4 @@ The Hiring Assistant project is designed to streamline the process of handling r
       cd <repository-directory>
    
 
-2. **Build and Run with Docker Compose**
 
- ```sh
-     docker-compose up --build
-
-
-3. Access the Application
-
-   Frontend: `http://localhost:13002`
-   Backend: `http://localhost:13001/docs` (Swagger UI for API documentation)
