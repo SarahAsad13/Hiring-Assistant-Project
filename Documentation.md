@@ -42,8 +42,7 @@ The Hiring Assistant project is designed to streamline the process of handling r
 
 4. **Access the Application**
 
-   Frontend: http://localhost:13002
-   Backend: http://localhost:13001/docs (Swagger UI for API documentation)
+   Frontend: http://localhost:13002 && Backend: http://localhost:13001/docs (Swagger UI for API documentation)
 
 
 ## Project Components Explained
