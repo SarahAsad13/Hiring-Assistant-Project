@@ -31,11 +31,10 @@ The Hiring Assistant project is designed to streamline the process of handling r
   ```sh
       git clone [repository-url](https://github.com/SarahAsad13/Hiring-Assistant-Project.git)
       cd <repository-directory>```
-   
+
 2. **Build and Run with Docker Compose**
 
- ```sh
-     docker-compose up --build
+     `docker-compose up --build`
 
 
 3. **Access the Application**
